@@ -1,0 +1,4 @@
+add your OpenAI API key on the settings screen.
+Click "Connect your OpenAI account to get started" 
+on the home page to begin. Once you have added your API key, 
+you can start chatting with ChatGPT.
